@@ -7,7 +7,7 @@ You can write plain-php code or use a framework for this challenge.
 
 Please use PHP 7.1+, strict typing and object oriented programming. 
 
-Also provide some Unit-Tests to verify the [sample-output](#Sample-Output).
+Also provide some Unit-Tests to verify the sample output.
 
 ### Summary
 This coding challenge shouldn't take more than 2 hours. Please provide us a github/bitbucket link when you're done.
