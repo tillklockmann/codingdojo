@@ -1,29 +1,38 @@
-# README #
+# FizzBuzz
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
-### What is this repository for? ###
+### Technology
+You can write plain-php code or use a framework for this challenge. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Please use PHP 7.1+, strict typing and object oriented programming. 
 
-### How do I get set up? ###
+Also provide some Unit-Tests to verify the [sample output](#sample-output).
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Summary
+This coding challenge shouldn't take more than 2 hours. Please provide us a github/bitbucket link when you're done.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Sample-Output
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+... etc up to 100
+```
