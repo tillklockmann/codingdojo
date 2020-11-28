@@ -26,39 +26,6 @@ class Fizzbuzz
     }
 
     /**
-     * check if multiple of three
-     * @param int $number 
-     * @return bool 
-     */
-    protected function fizzNumber(int $number) : bool
-    {
-        return ($number % 3) === 0;
-    }
-
-
-    /**
-     * check if multiple of three
-     * @param int $number 
-     * @return bool 
-     */
-    protected function buzzNumber(int $number) : bool
-    {
-        return ($number % 5) === 0;
-    }
-
-
-    /**
-     * check if multiple of three and five
-     * @param int $number 
-     * @return bool 
-     */
-    protected function fizzBuzzNumber(int $number) : bool
-    {
-        return $this->fizzNumber($number) && $this->buzzNumber($number);
-    }
-
-
-    /**
      * check if necessary to replace number
      * @param int $number 
      * @return string|int 
@@ -92,4 +59,37 @@ class Fizzbuzz
             echo $this->fuzzNumber($number) . $eol;
         }
     }
+
+    /**
+     * check if multiple of three
+     * @param int $number 
+     * @return bool 
+     */
+    protected function fizzNumber(int $number) : bool
+    {
+        return ($number % 3) === 0;
+    }
+
+
+    /**
+     * check if multiple of three
+     * @param int $number 
+     * @return bool 
+     */
+    protected function buzzNumber(int $number) : bool
+    {
+        return ($number % 5) === 0;
+    }
+
+
+    /**
+     * check if multiple of three and five
+     * @param int $number 
+     * @return bool 
+     */
+    protected function fizzBuzzNumber(int $number) : bool
+    {
+        return $this->fizzNumber($number) && $this->buzzNumber($number);
+    }
+
 }
