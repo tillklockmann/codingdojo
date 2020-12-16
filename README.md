@@ -1,38 +1,54 @@
-# FizzBuzz
+# Coding Katas 
+from [codingdojo.org/kata](https://codingdojo.org/kata)
 
-Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+## Overview of Katas
 
-### Technology
-You can write plain-php code or use a framework for this challenge. 
 
-Please use PHP 7.1+, strict typing and object oriented programming. 
-
-Also provide some Unit-Tests to verify the sample output.
-
-### Summary
-This coding challenge shouldn't take more than 2 hours. Please provide us a github/bitbucket link when you're done.
-
-### Sample-Output
-```
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-16
-17
-Fizz
-19
-Buzz
-... etc up to 100
-```
+- [ ] [Anagram](https://codingdojo.org/kata/Anagram/) 
+- [ ] [Args](https://codingdojo.org/kata/Args/) 
+- [ ] [Bank OCR](https://codingdojo.org/kata/BankOCR/) 
+- [ ] [Birthday Greetings](https://codingdojo.org/kata/birthday-greetings/) 
+- [ ] [Bowling](https://codingdojo.org/kata/Bowling/) 
+- [ ] [CQRS Booking](https://codingdojo.org/kata/CQRS_Booking/) 
+- [ ] [Christmas delivery](https://codingdojo.org/kata/christmas-delivery/) 
+- [ ] [Code Cracker](https://codingdojo.org/kata/CodeCracker/) 
+- [ ] [Depth first search](https://codingdojo.org/kata/DepthFirstSearch/) 
+- [ ] [Diamond](https://codingdojo.org/kata/Diamond/) 
+- [ ] [Dictionary replacer](https://codingdojo.org/kata/DictionaryReplacer/) 
+- [ ] [Elephant Carpaccio](https://codingdojo.org/kata/elephant-carpaccio/) 
+- [ ] [Employee Report](https://codingdojo.org/kata/Employee-Report/) 
+- [x] [FizzBuzz](https://codingdojo.org/kata/FizzBuzz/) 
+- [ ] [FooBarQix](https://codingdojo.org/kata/FooBarQix/) 
+- [ ] [Game of life](https://codingdojo.org/kata/GameOfLife/) 
+- [ ] [Gilded Rose](https://codingdojo.org/kata/gilded-rose/) 
+- [ ] [Greed](https://codingdojo.org/kata/Greed/) 
+- [ ] [Hello](https://codingdojo.org/kata/Hello/) 
+- [ ] [JEE WebAuthentication](https://codingdojo.org/kata/JEEWebAuthentication/) 
+- [ ] [Lags](https://codingdojo.org/kata/Lags/) 
+- [ ] [Langton Ant](https://codingdojo.org/kata/LangtonAnt/) 
+- [ ] [Leap Years](https://codingdojo.org/kata/LeapYears/) 
+- [ ] [Markov Chain](https://codingdojo.org/kata/MarkovChain/) 
+- [ ] [Mastermind](https://codingdojo.org/kata/Mastermind/) 
+- [ ] [Minesweeper](https://codingdojo.org/kata/Minesweeper/) 
+- [ ] [Movie Rental](https://codingdojo.org/kata/movie-rental/) 
+- [ ] [NimGame](https://codingdojo.org/kata/Nim/) 
+- [ ] [Number to LCD](https://codingdojo.org/kata/NumberToLCD/) 
+- [ ] [Numbers in words](https://codingdojo.org/kata/NumbersInWords/) 
+- [ ] [PacMan](https://codingdojo.org/kata/PacMan/) 
+- [ ] [Pagination Seven](https://codingdojo.org/kata/PaginationSeven/) 
+- [ ] [Poker Hands](https://codingdojo.org/kata/PokerHands/) 
+- [ ] [Potter](https://codingdojo.org/kata/Potter/) 
+- [ ] [Quote of the day](https://codingdojo.org/kata/QotdCgi/) 
+- [ ] [RPN Calculator](https://codingdojo.org/kata/RPN/) 
+- [ ] [Range](https://codingdojo.org/kata/Range/) 
+- [ ] [Reversi](https://codingdojo.org/kata/Reversi/) 
+- [ ] [Roman Calculator](https://codingdojo.org/kata/RomanCalculator/) 
+- [ ] [Roman Numerals](https://codingdojo.org/kata/RomanNumerals/) 
+- [ ] [String Calculator](https://codingdojo.org/kata/StringCalculator/) 
+- [ ] [Tennis](https://codingdojo.org/kata/Tennis/) 
+- [ ] [Texas HoldEm](https://codingdojo.org/kata/TexasHoldEm/) 
+- [ ] [Trading Card Game](https://codingdojo.org/kata/TradingCardGame/) 
+- [ ] [Trip Service](https://codingdojo.org/kata/TripService/) 
+- [ ] [Wallet](https://codingdojo.org/kata/Wallet/) 
+- [ ] [Word wrap](https://codingdojo.org/kata/WordWrap/) 
+- [ ] [Yahtzee](https://codingdojo.org/kata/Yahtzee/) 
